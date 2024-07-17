@@ -11,7 +11,7 @@ const redirection = () => {
 const reredirection = () => {
     setTimeout(function(){
         window.open("https://www.google.com", 'blank', 'width=500', 'height=400');
-    }, 4000);
+    }, 2000);
 }
 
 
